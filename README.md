@@ -1,6 +1,6 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
-Projeto criado com as bibliotecas React JS e Material UI. Em detrimento das praticas realizadas na Faculdade Descomplica nas aulas de Prátcias Integradoras de tecnologias disruptivas.
+Projeto criado com as bibliotecas React JS e Material UI. Em detrimento das praticas realizadas na Faculdade Descomplica nas aulas Integradoras de tecnologias disruptivas.
 
 ## Passo-a-passo para execução
 
@@ -14,4 +14,4 @@ Projeto criado com as bibliotecas React JS e Material UI. Em detrimento das prat
    npm start
    `
 
-Este repósitorio tem a finalidade a entrega do Pensar & Responder 3, da materia privamente informada.
+Este repósitorio tem a finalidade a entrega do Pensar & Responder 3, da matéria previamente informada.
