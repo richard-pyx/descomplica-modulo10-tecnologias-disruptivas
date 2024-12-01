@@ -58,7 +58,8 @@ const CriarTarefa = ({handleClose, tarefas, setTarefas}) =>{
     <Grid container spacing={2}>
       <Card sx={style}>
         <CardHeader
-          title="Tarefas"
+          
+          title={"Nova tarefa"}
           subheader="Cadastro de Tarefas"
         /> 
         <CardContent sx={{
